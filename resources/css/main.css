@@ -1,0 +1,28 @@
+body {
+    max-width: 66.67vw;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cccccc;
+    margin: 0 auto;
+    overflow-wrap: break-word;
+}
+
+address {
+    font-style: normal;
+}
+
+#selfportrait {
+    max-height: 6cm;
+    width: auto;
+    object-fit: contain;
+    border: #333333 solid 3px;
+    border-radius: 3px;
+}
+
+footer {
+    font-size: small;
+    color: grey'
+}
+
+footer>hr {
+    border-top: 1px solid gray;
+}
